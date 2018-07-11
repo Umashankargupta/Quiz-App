@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Brain Challange: Quiz App</string>
+    <string name="quiz_app">Quiz App</string>
+    <string name="brain_challange">BRAIN CHALLANGE</string>
+    <string name="todo">TODO</string>
+    <string name="_7_11">7 + 11</string>
+    <string name="_0_0">0/0</string>
+    <string name="_30s">30s</string>
+    <string name="_29">29</string>
+    <string name="_25">25</string>
+    <string name="_39">39</string>
+    <string name="_18">18</string>
+</resources>
