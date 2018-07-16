@@ -33,9 +33,9 @@ public class MainActivity extends AppCompatActivity {
 
                 else{
                     Intent game=new Intent(MainActivity.this,Main2Activity.class);
-//                    EditText player_string=findViewById(R.id.editText);
+                    EditText player_string=findViewById(R.id.editText);
 
-//                    game.putExtra("Player_Name",String.valueOf(player_string.getText()));
+                    game.putExtra("Name",String.valueOf(player_string.getText()));
                     startActivity(game);
                     MainActivity.this.finish();
 
